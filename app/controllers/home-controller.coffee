@@ -14,7 +14,7 @@ module.exports = class HomeController extends Controller
 
 	bracketLoaded: ->
 		viewPadding =
-			top: 100
+			top: 130
 			right: 100
 			bottom: 100
 			left: 100
